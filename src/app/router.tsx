@@ -21,7 +21,7 @@ const Appx = React.createClass({
       <Provider store={store}>
         <Router history={history}>
           <Route path="/" component={App} />
-          <Route path="/Snake_React_v2" component={App} />
+          <Route path="/Hebi-react" component={App} />
         </Router>
       </Provider>
     );
